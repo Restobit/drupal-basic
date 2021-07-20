@@ -1,0 +1,11 @@
+type: theme
+core: 8.x
+base theme: stable
+
+name: 'Waterwork 8.9.3'
+description: Custom Waterwork Theme by Restobit
+package: 'Bootstrap'
+logo: 'images/logo.png'
+
+libraries:
+  - waterwork/global

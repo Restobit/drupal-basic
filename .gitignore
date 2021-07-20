@@ -1,0 +1,5 @@
+.idea
+vendor
+web/themes/custom/waterwork/node_modules
+web/themes/custom/waterwork/dist
+web/sites/default/settings.php
